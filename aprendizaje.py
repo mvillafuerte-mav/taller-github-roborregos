@@ -1,1 +1,1 @@
-#En este taller aprendi a hacer commits, pulls, y a utilizar copilot
+#En este taller aprendi a hacer commits, pulls, y a utilizar copilot.
